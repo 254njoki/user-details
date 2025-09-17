@@ -1,4 +1,9 @@
-
+//simple c program 
+/*
+Name: Fidelis
+Reg: CT100/G/26151/25
+Description: User datails
+*/
 #include<stdio.h>//pre-processor descriptive.scanf
 
 //main function
@@ -24,3 +29,4 @@ int main(){
     return 0;
 
 }
+
