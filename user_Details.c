@@ -15,18 +15,14 @@ int main(){
     scanf("%d",& height);
     printf("Your height is %d");
     int phone_no;
-    
     printf("\nEnter your phone no:");
     scanf("%d", & phone_no);
     printf("\nyour phone is %d");
-    
     int weight;
     printf("\nEnter your weight:");
     scanf("%d",& weight);
     printf("\n your weight is %d");
-    
-     
     return 0;
-
 }
+
 
